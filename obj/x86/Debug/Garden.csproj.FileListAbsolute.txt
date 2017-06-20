@@ -1,0 +1,6 @@
+/Users/esrapetursson/Desktop/Garden/Garden/bin/Debug/Program.cs
+/Users/esrapetursson/Desktop/Garden/Garden/bin/Debug/garden.sqlite
+/Users/esrapetursson/Desktop/Garden/Garden/bin/Debug/Garden.exe
+/Users/esrapetursson/Desktop/Garden/Garden/bin/Debug/Garden.exe.mdb
+/Users/esrapetursson/Desktop/Garden/Garden/obj/x86/Debug/Garden.exe
+/Users/esrapetursson/Desktop/Garden/Garden/obj/x86/Debug/Garden.exe.mdb
